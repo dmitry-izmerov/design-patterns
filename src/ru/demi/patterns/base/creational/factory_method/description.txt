@@ -1,0 +1,12 @@
+Template: Factory method
+
+Goal:
+To build interface, which create object. Classes that implement this interface solve by self what object
+of what class to create.
+
+Using:
+It is used for delegation of object creation to another class.
+
+Examples of using:
+- It isn't known in advance what objects of what classes it is necessary will create.
+- Class is built in the way that objects which are created by it have properties of concrete class.

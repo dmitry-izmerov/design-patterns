@@ -1,0 +1,1 @@
+This is collection of design pattern examples for self-education.
