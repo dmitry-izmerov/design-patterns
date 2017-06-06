@@ -1,0 +1,13 @@
+Template: Abstract factory
+
+Goal:
+To create interface, that creates many interconnected or interdependent objects without strict connection to implementations.
+
+Using:
+It is used for creation of sets of interconnected objects.
+
+Examples of using:
+- a system shouldn't be dependent of creation method, arrangement and notion about dependant objects;
+- dependant interconnected objects should be used together;
+- a system should be configured by one of sets of objects of which this system is consisted;
+- we need to provide set of objects, opening only interfaces of them but hiding the realization.
