@@ -1,0 +1,13 @@
+Template: Singleton
+
+Goal:
+To guarantee, that class will have only one instance of another class and this instance will be accessible from
+any point of application.
+
+Using:
+For creation of single instance of the class.
+
+Examples of using:
+- It is necessary to have only one instance of the class, which is accessible for all clients.
+- Single instance should be inherited by creation of subclass and clients have the opportunity to work with
+  class-descendant without modification of itself code.
