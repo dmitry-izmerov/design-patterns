@@ -1,0 +1,13 @@
+Template: Builder
+
+Goal:
+Separate the construction of compound object from its presentation in the way that we can
+get different presentations in result of same construction.
+
+Using:
+To create different objects from one set of data.
+
+Examples of using:
+- if creation order of compound object shouldn't be dependant from what parts it consist of
+  and how these object are interrelated;
+- if process of object construction should provide different presentations of object, which we build.
