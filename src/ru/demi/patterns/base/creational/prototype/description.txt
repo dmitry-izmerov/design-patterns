@@ -1,0 +1,12 @@
+Template: Prototype
+
+Goal:
+Define type of objects with prototype-instance and then to create new objects basing on this (copying) prototype.
+
+Using:
+For copies creation of defined object.
+
+Examples of using:
+- if classes, instances of which its necessary to create, is defined in runtime;
+- for problem escaping of building of classes hierarchy, factories or parallel classes hierarchies;
+- if class instances can be in one of possible states.
