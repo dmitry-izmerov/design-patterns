@@ -1,0 +1,12 @@
+Template: Adapter
+
+Goal:
+Convert current interface to necessary interface.
+
+Using:
+Provide work of different classes together, which interfaces are incompatible.
+
+Examples of using:
+- if interface does not meet our needs;
+- we need the class, which should interact with other classes, that our class don't know about or that have no
+  any connections with our class;
