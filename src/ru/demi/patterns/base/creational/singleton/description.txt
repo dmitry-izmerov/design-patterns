@@ -1,4 +1,4 @@
-Template: Singleton
+Pattern: Singleton
 
 Goal:
 To guarantee, that class will have only one instance of another class and this instance will be accessible from

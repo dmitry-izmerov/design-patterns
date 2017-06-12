@@ -1,4 +1,4 @@
-Template: Factory method
+Pattern: Factory method
 
 Goal:
 To build interface, which create object. Classes that implement this interface solve by self what object

@@ -1,0 +1,12 @@
+Pattern: Bridge
+
+Goal:
+Separate abstraction from implementation in order to we can change these ones independently.
+
+Using:
+For getting advantages of hierarchy without the loss of flexibility.
+
+Examples of using:
+- to prevent strict binding of abstraction to implementation;
+- we want in future to expand abstraction and implementation by subclasses;
+- if changes of implementation shouldn't affect on clients of abstraction;

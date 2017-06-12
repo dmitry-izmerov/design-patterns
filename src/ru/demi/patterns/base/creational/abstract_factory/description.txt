@@ -1,4 +1,4 @@
-Template: Abstract factory
+Pattern: Abstract factory
 
 Goal:
 To create interface, that creates many interconnected or interdependent objects without strict connection to implementations.

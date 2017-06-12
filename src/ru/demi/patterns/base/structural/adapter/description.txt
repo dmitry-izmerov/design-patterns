@@ -1,4 +1,4 @@
-Template: Adapter
+Pattern: Adapter
 
 Goal:
 Convert current interface to necessary interface.

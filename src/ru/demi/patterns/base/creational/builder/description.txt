@@ -1,4 +1,4 @@
-Template: Builder
+Pattern: Builder
 
 Goal:
 Separate the construction of compound object from its presentation in the way that we can

@@ -1,4 +1,4 @@
-Template: Prototype
+Pattern: Prototype
 
 Goal:
 Define type of objects with prototype-instance and then to create new objects basing on this (copying) prototype.
