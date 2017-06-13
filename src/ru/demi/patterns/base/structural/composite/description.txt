@@ -1,0 +1,12 @@
+Pattern: Composite
+
+Goal:
+Compose objects in structures of tree kind, got objects allow clients uniformly interact both
+with individual and with composite objects.
+
+Using:
+For grouping of small components in bigger, which can form the basis for larger structures.
+
+Examples of using:
+- for presentation of "part-whole" hierarchy;
+- if we want clients uniformly interact both with separate and composite objects;
