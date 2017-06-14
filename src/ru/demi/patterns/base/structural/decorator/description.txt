@@ -1,0 +1,12 @@
+Pattern: Decorator
+
+Goal:
+Dynamically add new functionality for objects.
+
+Using:
+As more flexible way than inheritance for expanding of functionality.
+
+Examples of using:
+- dynamic and clear to clients addition of functionality for objects;
+- adding of functionality, which can be removed from object;
+- extending of classes by inheritance is impossible.
