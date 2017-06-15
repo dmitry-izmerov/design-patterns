@@ -1,0 +1,11 @@
+Pattern: Facade
+
+Goal:
+Give uniform interface instead of several interfaces of submodules (components).
+
+Using:
+For define high level interface, which simplifies using of submodules.
+
+Examples of using:
+- isolating of clients from subsystems' components;
+- there is necessity to decouple subsystems from clients.
