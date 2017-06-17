@@ -1,0 +1,11 @@
+Pattern: Flyweight
+
+Goal:
+Support many little objects.
+
+Using:
+Use separation in order to support many little objects.
+
+Examples of using:
+- if you use many little objects;
+- application does not depend on object identity.
