@@ -1,0 +1,14 @@
+Pattern: Proxy
+
+Goal:
+For replacement another object and access control to it.
+
+Using:
+Provide access control to the object.
+
+Examples of using:
+- if it is necessary to refer to object in the different way from usual reference;
+- remote proxies - local object instead of object in another address space;
+- virtual proxies - create "heavy objects" if its necessary;
+- protected proxies - access control to pointed object;
+- smart reference - replace usual pointer for counting of objects, etc.
