@@ -1,0 +1,12 @@
+Pattern: Chain of responsibility
+
+Goal:
+Collect object-clients in chain and transfer of request using it.
+
+Using:
+It helps to escape binding of request sender to recipient and gives possibility to process this request by several
+objects.
+
+Examples of using:
+- reduce connection (object should not know who processes his request);
+- additional flexibility in the distribution of responsibilities between objects.
