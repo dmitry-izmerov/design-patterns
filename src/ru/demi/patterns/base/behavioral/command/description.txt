@@ -1,0 +1,12 @@
+Pattern: Command
+
+Goal:
+Encapsulate a request into the object.
+
+Using:
+In order to set input parameters for processing of the requests, to create queues from these requests
+or control them and support cancel opertation.
+
+Examples of using:
+- add parameter with action for objects;
+- define the request, set it into queue or execute it at any time.
