@@ -1,0 +1,10 @@
+Pattern: Interpreter
+
+Goal:
+Define the presentation of language grammar.
+
+Using:
+Use for defining of language grammar and interpretation of its sentences.
+
+Examples of using:
+- simplify hierarchy of classes by interpretation.
