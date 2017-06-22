@@ -1,0 +1,11 @@
+Pattern: Iterator
+
+Goal:
+To get access to all elements of compound object.
+
+Using:
+For getting of sequential access to elements of compound object, hiding its inner presentation.
+
+Examples of using:
+- compound object traversal in different ways;
+- simplified access to a compound object.
