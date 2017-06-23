@@ -1,0 +1,13 @@
+Pattern: Mediator
+
+Goal:
+Encapsulate interaction of many objects.
+
+Using:
+Define object, which encapsulate interaction of many objects and provide weak coupling between objects.
+
+Examples of using:
+- connections between objects are complex and clearly defined;
+- if you cannot reuse an object since it exchanges information with other objects;
+- behavior that is divided between several classes should be easy to configure without
+creating classes.
