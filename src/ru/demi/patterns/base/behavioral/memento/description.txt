@@ -1,0 +1,12 @@
+Pattern: Memento
+
+Goal:
+Save the inner state of the object beyond its limits.
+
+Using:
+Transition the inner state of the object beyond its limits for possible subsequent recovery of the object
+without violating the principle of encapsulation.
+
+Examples of using:
+- if its necessary to save the state of the object for possible subsequent recovery;
+- if saving of the object's state should be without violating the principle of encapsulation.
