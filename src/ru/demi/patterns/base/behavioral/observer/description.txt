@@ -1,0 +1,13 @@
+Pattern: Observer
+
+Goal:
+Define dependency "one to many" between objects.
+
+Using:
+Define dependency "one to many" in order to when one object was changed the rest were notified about this.
+
+Examples of using:
+- when model has two aspects, one of which depends on another, encapsulation of these aspects in different classes
+ allows using their independently of each other;
+- when one object should notify other and dont do any suggestions about these objects;
+- weakening of connection between objects.
