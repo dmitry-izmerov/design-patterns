@@ -1,0 +1,12 @@
+Pattern: State
+
+Goal:
+Behaviour management of the object depending on the state.
+
+Using:
+Allow to us to manage the behaviour of the object depending on the inner state of the object.
+
+Examples of using:
+- if behaviour of the object depends on the its state and changes in runtime;
+- when there are many conditional statements in code, when the choice of the conditional branch
+ depends on the state of the object.
