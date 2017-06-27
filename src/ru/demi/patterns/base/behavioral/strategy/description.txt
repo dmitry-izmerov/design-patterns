@@ -1,0 +1,13 @@
+Pattern: Strategy
+
+Goal:
+Interchangeability of a set of algorithms.
+
+Using:
+Defining a set of classes that encapsulate some algorithm and providing the interchangeability of them.
+
+Examples of using:
+- if there are several related classes which differ in their behavior;
+- if its necessary to have several behaviors;
+- if there is data in the class about which client shouldn't know;
+- if class has large amount of possible behaviors defined by conditional statements.
