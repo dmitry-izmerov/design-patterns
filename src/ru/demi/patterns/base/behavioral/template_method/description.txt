@@ -1,0 +1,12 @@
+Pattern: Template method
+
+Goal:
+Defining of class basis and creating of possibility to subclasses to redefine parts.
+
+Using:
+Define class basis and allow subclasses to redefine some parts not changing its structure on the whole.
+
+Examples of using:
+- for single-entry using of different parts of class, leaving behavior realization to subclasses;
+- localization common behavior for all subclasses in parent class;
+- management of subclasses extension.
