@@ -1,0 +1,15 @@
+Pattern: Visitor
+
+Goal:
+Describing of actions, which execute with each objects in a structure.
+
+Using:
+Describe operations, which execute with each object from a structure and allow
+to define a new operation without change of these objects.
+
+Examples of using:
+- if a structure has objects of many classes with different interfaces and its necessary
+  to execute a operations with them, which depend on specific classes;
+- if its necessary to execute unrelated operations over objects, which are parts of the structure
+  and we don't want to add these operations in classes;
+- if classes are rarely changed but new operations are often added over the structure.
